@@ -289,4 +289,5 @@ For issues or questions:
 
 ---
 
-**Automated screening powered by AI, built by researchers for researchers**
+**Automated screening powered by AI, built for researchers**
+
