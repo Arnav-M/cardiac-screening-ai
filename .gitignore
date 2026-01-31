@@ -1,0 +1,134 @@
+# Environment Variables & Secrets
+.env
+*.env
+.env.local
+.env.*.local
+
+# API Keys & Credentials
+**/api_keys.txt
+**/credentials.json
+**/secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+virtualenv/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Data Files (if sensitive)
+# Uncomment if your data files contain sensitive information
+# *.csv
+# *.xlsx
+# *.ris
+# articles.ris
+# excluded.ris
+
+# Output Files
+*_screened.csv
+*_results.csv
+*_output.xlsx
+
+# Chrome Driver & Selenium
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+*.crx
+
+# Model Files (if downloaded locally)
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.pickle
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Documentation Build Files
+docs/_build/
+docs/.doctrees/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython
+*.c
+cython_debug/

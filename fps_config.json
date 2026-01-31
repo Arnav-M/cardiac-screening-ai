@@ -1,0 +1,19 @@
+{
+  "GamePath": "C:\\Program Files\\Genshin Impact\\Genshin Impact game\\GenshinImpact.exe",
+  "AutoStart": false,
+  "AutoClose": false,
+  "PopupWindow": false,
+  "Fullscreen": true,
+  "UseCustomRes": false,
+  "IsExclusiveFullscreen": false,
+  "StartMinimized": false,
+  "UsePowerSave": false,
+  "SuspendLoad": false,
+  "UseMobileUI": false,
+  "FPSTarget": 120,
+  "CustomResX": 1920,
+  "CustomResY": 1080,
+  "MonitorNum": 1,
+  "Priority": 3,
+  "DllList": []
+}
